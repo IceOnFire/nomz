@@ -19,8 +19,10 @@ Big deal, you just discovered money.
 Not really. Noms are a little different:
 
 - Noms have no way to be changed in "real-world" currency. They only exist in the nom world.
-- Their value is fixed and will never be subject to inflation: the nom currency is related to energy, and one nom corresponds exactly to 1000 kcal (a hearty meal).
+- Their value is fixed and will never be subject to inflation: the nom currency is related to energy, and one nom corresponds exactly to 1000 kcal (equivalent to a hearty meal).
 - There are no banks or miners that coin new currency: every new person that joins this economy causes the economy itself to grow.
+- Noms can have only positive integer values: there is no debit of noms and no rounding profits.
+- Noms cannot be exchanged, traded or donated. If you have zero noms, the only thing you can do to gather some is to do some work.
 
 FAQ
 ---
