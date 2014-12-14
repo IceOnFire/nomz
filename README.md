@@ -42,8 +42,8 @@ As for the price, here's the innovative stuff: the price is open source. It's no
 
 Moreover, the atomic price of a single good (which we call value) is transparent and determined by many factors:
 
-- The minimum value, which is the cost of production
 - The mean value perceived by the users for a good type, following the principle of "wisdom of the crowd"
+- The minimum value of the producer's good, which corresponds to the cost of production. Of course, if the price chain is not defined the producer can put a simple number, which can be updated lately
 - The value perceived by the producer for her/his particular good item (which will be slightly higher than the minumum, if the produces thinks that the mean value is way too low)
 - The final value of the item, altered by its rating
 
@@ -51,5 +51,14 @@ As you can see, even though the system is quite complicated it aims at being com
 
 FAQ
 ---
+
+*Why should I use some fake currency?*
+The world is full of fake currencies: casino tokens, proofs of purchase, even temporary money for small realities with very grave economic crisis. If you think about it the currency you're using right now is just a convention created by humans, no more true than others. This convention, however, has rules which are leading the world to war and misery. Noms are just a new convention, with rules designed in an attempt to make everyone richer and happier.
+
+*Noms are worthless, my goods are too precious to be given for free*
+You're right, noms are worthless right now. They will be worth something at the very moment you will be able to obtain some goods with them. My suggestion for you is this: start donating something that doesn't cost you much, such as apples that grow on your backyard tree or an hour of math tutoring to a kid. Ask them to take their time to register for free to Nomz and pay you in noms. At worst you lost nothing, at best you earned something.
+
+"How much are you planning to earn from this?"
+Nothing. I already have a house, a car, a job that I love. Maybe one day I will be payed in noms, but I expect to live the same life with them. Oh wait, if you really want to give me something, a Nobel Prize for Peace could look nice on my cupboard.
 
 To Be Continued...
