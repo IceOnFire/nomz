@@ -46,24 +46,34 @@ As you can see, even though the system is quite complicated it aims at being com
 
 # FAQz
 
-*Why should I use some fake currency?*  The world is full of fake currencies: casino tokens, proofs of purchase, Linden Dollars, BitCoins, even temporary money for small realities with very grave economic crisis. If you think about it the currency you're using right now is just a convention created by humans, no more true than others. This convention, however, has rules which are leading the world to war and misery. Noms are just a new convention, with rules designed in an attempt to make everyone richer and happier.
+*Why should I use some fake currency?*
+The world is full of fake currencies: casino tokens, proofs of purchase, Linden Dollars, BitCoins, even temporary money for small realities with very grave economic crisis. If you think about it the currency you're using right now is just a convention created by humans, no more true than others. This convention, however, has rules which are leading the world to war and misery. Noms are just a new convention, with rules designed in an attempt to make everyone richer and happier.
 
-*Noms are worthless, my goods are too precious to be given for free.*  You're right, noms are worthless right now. They will be worth something at the very moment you will be able to obtain some goods with them. My suggestion for you is this: start donating something that doesn't cost you much, such as apples that grow on your backyard tree or an hour of math tutoring to a kid. Ask them to take their time to register for free to Nomz and pay you in noms. At worst you lost nothing, at best you earned something.
+*Noms are worthless, my goods are too precious to be given for free.*
+You're right, noms are worthless right now. They will be worth something at the very moment you will be able to obtain some goods with them. My suggestion for you is this: start donating something that doesn't cost you much, such as apples that grow on your backyard tree or an hour of math tutoring to a kid. Ask them to take their time to register for free to Nomz and pay you in noms. At worst you lost nothing, at best you earned something.
 
-*How much are you planning to earn from this?*  Nothing. I already have a house, a car, a job that I love. Maybe one day I will be payed in noms, but I expect to live the same life with them. Oh wait, if you really want to give me something, a Nobel Prize for Peace could look nice on my cupboard.
+*How much are you planning to earn from this?*
+Nothing. I already have a house, a car, a job that I love. Maybe one day I will be payed in noms, but I expect to live the same life with them. Oh wait, if you really want to give me something, a Nobel Prize for Peace could look nice on my cupboard.
 
-*I like your idea, let's create a startup company.*  Thank you very much but no. This project has nothing to do with "real world" money. Companies are subject to taxes, need contracts, must follow standards. If you strip away all the complicated stuff, this project is just "I give something to you, you give something to me".
+*I like your idea, let's create a startup company.*
+Thank you very much but no. This project has nothing to do with "real world" money. Companies are subject to taxes, need contracts, must follow standards. If you strip away all the complicated stuff, this project is just "I give something to you, you give something to me".
 
-*I like your idea, I want to contribute in some way.*  If you want to be in it you are free to join, and you will be paid in noms. There are many ways to contribute: developing code, making translations, moderating reviews and values and users, evangelizing the project, debugging the system and its fallacies related to prowlers. Or find yourself something to do and talk me about it.
+*I like your idea, I want to contribute in some way.*
+If you want to be in it you are free to join, and you will be paid in noms. There are many ways to contribute: developing code, making translations, moderating reviews and values and users, evangelizing the project, debugging the system and its fallacies related to prowlers. Or find yourself something to do and talk me about it.
 
-*I want to donate, where's the PayPal button?*  There is no PayPal button since you cannot donate in money. But you can contribute with your work, and you will be paid for your effort in noms.
+*I want to donate, where's the PayPal button?*
+There is no PayPal button since you cannot donate in money. But you can contribute with your work, and you will be paid for your effort in noms.
 
-*I'm registered but have 0 noms. How can I buy something? Can I convert some of my money into noms?*  No no no no no. No. Noms have no equivalence to "real world" money. And the game here is not about buying stuff. It's about giving in order to receive. Do Ut Des in latin. You want noms? Start giving some goods of yours.
+*I'm registered but have 0 noms. How can I buy something? Can I convert some of my money into noms?*
+No no no no no. No. Noms have no equivalence to "real world" money. And the game here is not about buying stuff. It's about giving in order to receive. Do Ut Des in latin. You want noms? Start giving some goods of yours.
 
-*I want to give some noms to charity. How?*  This may seem cruel, but there's no charity in Nomz world. Nothing is for free. On the other hand, everyone of us has something to offer. So don't give money for free, pay for something. Even a street performance is ok.
+*I want to give some noms to charity. How?*
+This may seem cruel, but there's no charity in Nomz world. Nothing is for free. On the other hand, everyone of us has something to offer. So don't give money for free, pay for something. Even a street performance is ok.
 
-*Is this thing legal?*  The same question is raised everyday for BitCoins. Well, if BitCoins are legal then noms are even more legal. It's not money, it doesn't convert into money, it's just a placeholder for goods' value. You can't exchange it, you can't borrow or lend it, you can't trade with it. If you have, say, 4 noms, this means you gave value to society and society owes you 4 noms' worth of goods in return. Oh, and since noms are only positive you can never be in debt with society. Does this seem illegal to you?
+*Is this thing legal?*
+The same question is raised everyday for BitCoins. Well, if BitCoins are legal then noms are even more legal. It's not money, it doesn't convert into money, it's just a placeholder for goods' value. You can't exchange it, you can't borrow or lend it, you can't trade with it. If you have, say, 4 noms, this means you gave value to society and society owes you 4 noms' worth of goods in return. Oh, and since noms are only positive you can never be in debt with society. Does this seem illegal to you?
 
-*Why are noms just positive integers?*  They are positive so there can never be debt of noms (see FAQ above). There is no way you can avail yourself of a good and pay if and when you will be able to. And if there are no debts there is no interest on debts. As for the integer matter, floating point numbers are subject to legal but illigitimate thefts of small amounts of money. You can verify it every day by paying $5 for a $4.99 product, or when splitting a $100 bill in thirds two get $33.33 while the last one gets $33.34. For total equality we should deal with infinite decimal values, which is impractical, or prevent non-integer divisions in the first place.
+*Why are noms just positive integers?*
+They are positive so there can never be debt of noms (see FAQ above). There is no way you can avail yourself of a good and pay if and when you will be able to. And if there are no debts there is no interest on debts. As for the integer matter, floating point numbers are subject to legal but illigitimate thefts of small amounts of money. You can verify it every day by paying $5 for a $4.99 product, or when splitting a $100 bill in thirds two get $33.33 while the last one gets $33.34. For total equality we should deal with infinite decimal values, which is impractical, or prevent non-integer divisions in the first place.
 
-To Be Continued...
+*To Be Continued...*
