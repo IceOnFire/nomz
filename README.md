@@ -15,7 +15,7 @@ A nom is just a placeholder for barter. Say you offer a good to me and I offer a
 Not really. Noms are a little different:
 
 - Noms have no way to be changed in "real-world" currency. They only exist in the nom world.
-- Their value is fixed and will never be subject to inflation: the nom currency is related to energy, and one nom corresponds exactly to 1000 kcal (equivalent to a hearty meal). This does not mean you pay a meal its equivalent in calories: plesae read on.
+- Their value is fixed and will never be subject to inflation: the nom currency is related to energy, and one nom corresponds exactly to 1000 kcal (equivalent to a hearty meal). This does not mean you pay a meal its equivalent in calories though: please read on.
 - There are no banks or miners that coin new currency: every new person that joins this economy causes the economy itself to grow.
 - Noms can have only positive integer values: there is no debit of noms and no rounding profits.
 - Noms cannot be exchanged, traded or donated. If you have zero noms, the only thing you can do to gather some is to do some work.
@@ -47,7 +47,7 @@ As you can see, even though the system is quite complicated it aims at being com
 # FAQz
 
 *Why should I use some fake currency?*
-The world is full of fake currencies: casino tokens, proofs of purchase, Linden Dollars, BitCoins, even temporary money for small realities with very grave economic crisis. If you think about it the currency you're using right now is just a convention created by humans, no more true than others. This convention, however, has rules which are leading the world to war and misery. Noms are just a new convention, with rules designed in an attempt to make everyone richer and happier.
+The world is full of fake currencies: casino tokens, proofs of purchase, in-game currencies, BitCoins, even temporary money for small realities with very grave economic crisis. If you think about it the currency you're using right now is just a convention created by humans, no more true than others. This convention, however, has rules which are leading the world to war and misery. Noms are just a new convention, with rules designed in an attempt to make everyone richer and happier.
 
 *Noms are worthless, my goods are too precious to be given for free.*
 You're right, noms are worthless right now. They will be worth something at the very moment you will be able to obtain some goods with them. My suggestion for you is this: start donating something that doesn't cost you much, such as apples that grow on your backyard tree or an hour of math tutoring to a kid. Ask them to take their time to register for free to Nomz and pay you in noms. At worst you lost nothing, at best you earned something.
@@ -76,5 +76,7 @@ The same question is raised everyday for BitCoins. Well, if BitCoins are legal t
 *Why are noms just positive integers?*
 They are positive so there can never be debt of noms (see FAQ above). There is no way you can avail yourself of a good and pay if and when you will be able to. And if there are no debts there is no interest on debts.
 As for the integer matter, floating point numbers are subject to legal but illegitimate thefts of small amounts of money. You can verify it every day by paying $5 for a $4.99 product, or when splitting a $100 bill in thirds two get $33.33 while the last one gets $33.34. For total equality we should deal with infinite decimal values, which is impractical, or prevent non-integer divisions in the first place.
+
+<!-- *How are noms coined? Are there miners as in BitCoins? Can I make money by mining?* -->
 
 *To Be Continued...*
