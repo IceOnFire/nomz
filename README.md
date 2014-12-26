@@ -86,3 +86,16 @@ As for the integer matter, floating point numbers are subject to legal but illeg
 <!-- *How are noms coined? Are there miners as in BitCoins? Can I make money by mining?* -->
 
 *To Be Continued...*
+
+# Workforce needed!
+
+I'd love to create this platform, but I can't make it all by myself. If you're interested please contact me. My idea is to:
+
+- make use of all the latest open source technologies available;
+- write in JavaScript or CoffeeScript, if they do not jeopardize transaction security;
+- provide a very simple and intuitive UX for mobile, tablets and desktops;
+- cover any platform available with native or hybrid apps.
+
+We need a powerful CMS that enables the user to add dynamic structured content. After googling a little I found hatchjs.com, does anybody know anything about it? Seems nice...
+
+This project will create new jobs. For example, we will need random people to help us determine a good's value, maybe comparing it to other goods' values. We will need a trusted warrantor for every transaction. We will need moderators for user reviews. Anyone can help in some way.
