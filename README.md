@@ -1,6 +1,6 @@
 # nomz
 
-The definitive economy for the new millenium.
+An open source, cross-platform, mobile-first implementation of the Mesh economy.
 
 ## What the hell are you talking about?
 
@@ -12,7 +12,7 @@ A nom is just a placeholder for barter. Say you offer a good to me and I offer a
 
 ## Big deal, you just discovered money.
 
-Not really. Noms are a little different:
+Not really. Noms are quite different:
 
 - Noms have no way to be changed in "real-world" currency. They only exist in the nom world.
 - Their value is fixed and will never be subject to inflation: the nom currency is related to energy, and one nom corresponds exactly to 1000 kcal (equivalent to a hearty meal). This does not mean you pay a meal its equivalent in calories though: please read on.
@@ -65,13 +65,19 @@ If you want to be in it you are free to join, and you will be paid in noms. Ther
 There is no PayPal button since you cannot donate in money. But you can contribute with your work, and you will be paid for your effort in noms.
 
 *I'm registered but have 0 noms. How can I buy something? Can I convert some of my money into noms?*
-No no no no no. No. Noms have no equivalence to "real world" money. And the game here is not about buying stuff. It's about giving in order to receive. Do Ut Des in latin. You want noms? Start giving some goods of yours.
+No no no no no. No. Noms have no equivalence to "real world" money. And the game here is not about buying stuff. It's about giving in order to receive. Do Ut Des in latin. You want noms? Start giving some goods of yours. If you really want to change your money into noms then build a school in Africa, or give shelter to someone. Your job and expenses will be rewarded accordingly in noms.
 
 *I want to give some noms to charity. How?*
 This may seem cruel, but there's no charity in Nomz world. Nothing is for free. On the other hand, everyone of us has something to offer. So don't give money for free, pay for something. Even a street performance is ok.
 
 *Is this thing legal?*
 The same question is raised everyday for BitCoins. Well, if BitCoins are legal then noms are even more legal. It's not money, it doesn't convert into money, it's just a placeholder for goods' value. You can't exchange it, you can't borrow or lend it, you can't trade with it. If you have, say, 4 noms, this means you gave value to society and society owes you 4 noms' worth of goods in return. Oh, and since noms are only positive you can never be in debt with society. Does this seem illegal to you?
+
+*Will noms take place of current money?*
+Oh I'd love so, but there is no need to destroy what we already have. Gift economies and mesh economies can live smoothly together with other economies, such the Market economy we live in.
+
+*Is this a brand new idea?*
+Not at all. Mesh economy has been defined years ago and is already making its own way through society; sharing platforms such as http://www.impossible.com and http://www.gifteng.com are rising everyday. The main difference in this project is we're assigning a specific value to every good so the economy can easily scale to any aspect of our life instead of working on small realities only.
 
 *Why are noms just positive integers?*
 They are positive so there can never be debt of noms (see FAQ above). There is no way you can avail yourself of a good and pay if and when you will be able to. And if there are no debts there is no interest on debts.
